@@ -1,6 +1,7 @@
 # Web-Scraper with GUI V2
 
-![Scrapper](https://user-images.githubusercontent.com/53401206/62778977-289f8a00-bab2-11e9-87fe-fc06176bba67.png)
+![img](https://user-images.githubusercontent.com/53401206/70712074-42144500-1ce3-11ea-9863-0bccb56be2b4.png)
+
 
 
 A web scraper with GUI is a tool built for an easy and simple data extraction from web pages.
