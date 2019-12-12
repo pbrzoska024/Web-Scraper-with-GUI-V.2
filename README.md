@@ -1,4 +1,4 @@
-# Web-Scraper with GUI
+# Web-Scraper with GUI V2
 
 ![Scrapper](https://user-images.githubusercontent.com/53401206/62778977-289f8a00-bab2-11e9-87fe-fc06176bba67.png)
 
