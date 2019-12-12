@@ -4,7 +4,7 @@
 
 
 
-A web scraper with GUI is a tool built for an easy and simple data extraction from web pages.
+A web scraper with GUI is a tool built for an easy and simple tezt data extraction from web pages.
 
 ## Getting Started
 
