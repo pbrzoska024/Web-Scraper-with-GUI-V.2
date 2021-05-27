@@ -1,6 +1,6 @@
 # Web-Scraper with GUI V2
 
-![img](https://user-images.githubusercontent.com/53401206/70712074-42144500-1ce3-11ea-9863-0bccb56be2b4.png)
+![img]![Screenshot from 2021-05-27 13-27-12](https://user-images.githubusercontent.com/53401206/119819063-41c83380-bef0-11eb-9e01-01c097d3e8c0.png)
 
 
 
