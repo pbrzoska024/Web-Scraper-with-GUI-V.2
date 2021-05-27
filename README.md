@@ -39,5 +39,6 @@ sudo pip install tkinter
 ## Authors
 
 * **Paweł Brzóska** - *Initial work* - (https://github.com/pbrzoska024)
+* **Tomasz Zawadzki** - *Initial work* - (https://github.com/TomZaw777)
 
 
